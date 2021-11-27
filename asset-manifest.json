@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://kundy11.github.io/csb-km52l/static/js/main.a4aa0db6.chunk.js",
+    "main.js.map": "https://kundy11.github.io/csb-km52l/static/js/main.a4aa0db6.chunk.js.map",
+    "runtime-main.js": "https://kundy11.github.io/csb-km52l/static/js/runtime-main.15e1fd9e.js",
+    "runtime-main.js.map": "https://kundy11.github.io/csb-km52l/static/js/runtime-main.15e1fd9e.js.map",
+    "static/js/2.05d2717a.chunk.js": "https://kundy11.github.io/csb-km52l/static/js/2.05d2717a.chunk.js",
+    "static/js/2.05d2717a.chunk.js.map": "https://kundy11.github.io/csb-km52l/static/js/2.05d2717a.chunk.js.map",
+    "index.html": "https://kundy11.github.io/csb-km52l/index.html",
+    "precache-manifest.640642193a3567c9e858726b870416d8.js": "https://kundy11.github.io/csb-km52l/precache-manifest.640642193a3567c9e858726b870416d8.js",
+    "service-worker.js": "https://kundy11.github.io/csb-km52l/service-worker.js",
+    "static/js/2.05d2717a.chunk.js.LICENSE.txt": "https://kundy11.github.io/csb-km52l/static/js/2.05d2717a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15e1fd9e.js",
+    "static/js/2.05d2717a.chunk.js",
+    "static/js/main.a4aa0db6.chunk.js"
+  ]
+}
